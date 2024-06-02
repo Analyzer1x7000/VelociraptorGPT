@@ -6,6 +6,3 @@ For incident responders, forensic analysts, and threat hunters - your personal V
 
 Find it [here](https://chatgpt.com/g/g-nWCGWqjlt-velociraptorgpt).
 
-# Usage
-https://github.com/Analyzer1x7000/VelociraptorGPT/assets/103800652/e618c5d5-2c5e-4a38-8cfd-b4f08227e16d
-
